@@ -1,0 +1,21 @@
+.food__item img {
+  width: 80px;
+}
+
+.food__items {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.food__item {
+  border: 1px solid black;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  width: 120px;
+}
+
+.food__order {
+  border-bottom: 3px solid black;
+  margin-bottom: 10px;
+}
