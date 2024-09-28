@@ -1,7 +1,6 @@
 import './App.css';
 import {useState} from 'react';
 import FastFoodItem from '../../components/FastFoodItem/FastFoodItem';
-// import {fastfooditems} from './constants';
 import removeItemImg from '../../assets/remove.png';
 
 import {FastfoodItem} from '../../type';
